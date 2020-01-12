@@ -241,6 +241,18 @@ input, select, textarea {
 		color: green;
 	}
 
+	._title {
+		margin: 0 0 1rem 0;
+	}
+
+	.absdiv {
+		padding-left: 0rem;
+	}
+
+	a.viewabs1 {
+		color: green;
+	}
+
 	#year_ting {
 		font-family: "Raleway", sans-serif;
 		font-siz§e: 1rem;

@@ -6,6 +6,22 @@
 
 (function($) {
 
+	$.fn.extend({
+	    toggleText: function(a, b){
+	        return this.html(this.html() == b ? a : b);
+	    }
+	});
+
+	$(document).ready(function(){
+		$(".abstract1").hide();
+
+		$(".viewabs1").click(function(){
+	  		$(".abstract1").toggle();
+			$(".viewabs1").toggleText('Show Abstract', 'Hide Abstract');
+	  	});
+
+	});
+
 	var	$window = $(window),
 		$body = $('body');
 
