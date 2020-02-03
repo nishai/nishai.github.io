@@ -267,6 +267,8 @@ input, select, textarea {
 
 	h5 {
 		font-size: 0.75rem;
+		margin: 0.2rem;
+		padding-top: 0.4rem;
 	}
 
 	h6 {
@@ -2637,6 +2639,22 @@ input, select, textarea {
 		}
 
 /* Actions */
+
+	.lang_details {
+		padding-left: 2rem;
+		padding-top: 0.6rem;
+		padding-bottom: 1rem;
+	}
+
+	.icon.fa-plus-circle {
+		font-size: 0.8rem;
+		display: inline;
+	}
+
+	.icon.fa-minus-circle {
+		font-size: 0.8rem;
+		display: inline;
+	}
 
 	ul.actions {
 		display: -moz-flex;

@@ -14,13 +14,48 @@
 
 	$(document).ready(function(){
 		$(".abstract1").hide();
+		$('#pydiv').hide();
+		$('#jsdiv').hide();
+		$('#javadiv').hide();
+		$('#cppdiv').hide();
+		$('#cdiv').hide();
+		$('#csharpdiv').hide();
 
 		$(".viewabs1").click(function(){
 	  		$(".abstract1").toggle();
 			$(".viewabs1").toggleText('Show Abstract', 'Hide Abstract');
 	  	});
 
+		$('.plusbutton').click(function(){
+		    $(this).toggleClass('fa-plus-circle fa-minus-circle');
+		});
+
+		$('#pyexpand').click(function(){
+		    $('#pydiv').toggle();
+		});
+
+		$('#jsexpand').click(function(){
+		    $('#jsdiv').toggle();
+		});
+
+		$('#javaexpand').click(function(){
+		    $('#javadiv').toggle();
+		});
+
+		$('#cppexpand').click(function(){
+		    $('#cppdiv').toggle();
+		});
+
+		$('#cexpand').click(function(){
+		    $('#cdiv').toggle();
+		});
+
+		$('#csharpexpand').click(function(){
+		    $('#csharpdiv').toggle();
+		});
 	});
+
+
 
 	var	$window = $(window),
 		$body = $('body');
