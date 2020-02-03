@@ -2640,6 +2640,11 @@ input, select, textarea {
 
 /* Actions */
 
+	.sideicon {
+		-webkit-text-stroke-width: 1px;
+  		-webkit-text-stroke-color: white;
+	}
+
 	.lang_details {
 		padding-left: 2rem;
 		padding-top: 0.6rem;
@@ -2649,6 +2654,24 @@ input, select, textarea {
 	.icon.fa-plus-circle {
 		font-size: 0.8rem;
 		display: inline;
+	}
+
+	.icon.fa-circle {
+		font-size: 0.8rem;
+		display: inline;
+		padding-right: 0.1rem;
+	}
+
+	.low {
+		color: #fcf04b;
+	}
+
+	.mid {
+		color: #95e86f;
+	}
+
+	.high {
+		color: #2d8e00;
 	}
 
 	.icon.fa-minus-circle {
