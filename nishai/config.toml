@@ -94,6 +94,9 @@ heading = "Welcome to my site.</br> I'm a Machine Learning Engineer, a Computer 
 [params.music]
 enable = true
 title = "In Rotation..."
+sources = [
+	"https://embed.music.apple.com/za/album/23-seconds-bonus-track-version/265967783"
+]
 
 # gallery
 [params.gallery]
