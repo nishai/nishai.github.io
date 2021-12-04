@@ -52,16 +52,14 @@
         {{ end }}
       </div>
 
-      {{ if .Site.Params.call_to_action.enable }}
-      {{ with .Site.Params.call_to_action }}
+      {{ if .Site.Params.music.enable }}
+      {{ with .Site.Params.music }}
       <div class="wp-block-group alignwide has-background" style="background-color:#ffffff">
         <div class="wp-block-group__inner-container">
           <div class="wp-block-group">
             <div class="wp-block-group__inner-container">
-              <h2 class="has-text-align-center">{{ .title | markdownify }}</h2>
-              <p class="has-text-align-center">{{ .content | markdownify }}</p>
-              <div class="wp-block-button aligncenter"><a class="wp-block-button__link"
-                  href="{{ .button_url | absURL }}">{{ .button_label }}</a></div>
+              <h2 class="has-text-align-center">{{ .title | markdownify }}</h2> 
+                <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:400px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/za/album/donda/1587795158"></iframe>
             </div>
           </div>
         </div>

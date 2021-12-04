@@ -90,13 +90,10 @@ image = "images/cover.jpg"
 location = "🌍 Johannesburg, South Africa"
 heading = "Welcome to my site.</br> I'm a Machine Learning Engineer, a Computer Science Masters graduate, a coffee enthusiast and a Kanye West fan."
 
-# call to action
-[params.call_to_action]
+# some music
+[params.music]
 enable = true
-title = "Contact us for more information."
-content = "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis"
-button_label = "Contact Us"
-button_url = "contact"
+title = "In Rotation..."
 
 # gallery
 [params.gallery]
