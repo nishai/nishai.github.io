@@ -6183,7 +6183,7 @@ a.to-the-top>* {
 
 	.entry-content>.wp-block-group.alignwide.has-background,
 	.entry-content>.wp-block-group.alignfull.has-background {
-		padding: 8rem 6rem;
+		padding: 2rem 6rem;
 		margin-bottom: 0;
 		margin-top: 0;
 	}
@@ -6485,4 +6485,26 @@ a.to-the-top>* {
 }
 .d-block {
 	display: block;
+}
+
+
+/* Custom  styles */
+
+.music-widget {
+	display: flex;
+	flex-shrink: 1;
+	flex-grow: 1;
+	flex-basis: 350px;
+	overflow: hidden;
+	background: transparent;
+	padding: 1rem 0rem;
+}
+
+.music-container {
+	padding: 1rem 1rem;
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
 }
