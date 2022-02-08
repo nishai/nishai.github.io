@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "CV / Resumé"
 # meta description
-description: "This is meta description"
+description: "My profile"
 # save as draft
 draft: false
 ---

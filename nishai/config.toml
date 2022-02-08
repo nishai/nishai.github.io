@@ -5,7 +5,7 @@ theme = "twenty-twenty-hugo"
 languageName = "En"
 languageCode = "en-us"
 # post pagination
-paginate = "6"
+paginate = "2"
 # post excerpt
 summaryLength = "10"
 # disqus short name
@@ -39,8 +39,8 @@ URL = "/"
 weight = 1
 
 [[menu.main]]
-name = "About"
-URL = "about"
+name = "Profile"
+URL = "profile"
 weight = 2
 
 [[menu.main]]
@@ -60,8 +60,8 @@ weight = 5
 
 # only desktop menu
 [[menu.desktop]]
-name = "Contact"
-URL = "contact"
+name = "My Profile"
+URL = "profile"
 weight = 1
 
 
