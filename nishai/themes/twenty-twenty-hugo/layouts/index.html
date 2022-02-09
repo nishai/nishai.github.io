@@ -85,7 +85,12 @@
         <ul class="blocks-gallery-grid">
           {{ range .gallery_item }}
           <li class="blocks-gallery-item">
-            <figure><img src="{{ .image | absURL }}"/></figure>
+            <div class="wp-block-group">
+              <div class="wp-block-group__inner-container">
+                <figure><img src="{{ .image | absURL }}"/></figure>
+                <p>{{ .caption }}</p>
+              </div>
+            </div>
           </li>
           {{ end }}
         </ul>

@@ -106,9 +106,11 @@ enable = true
 
 [[params.gallery.gallery_item ]]
 image = "images/smilejozi.jpg"
+caption = "All smiles over the Brixton tower - Johannesburg."
 
 [[params.gallery.gallery_item ]]
 image = "images/mist.jpg"
+caption = "Misty windows at an undisclosed resort - North West"
 
 
 # footer
