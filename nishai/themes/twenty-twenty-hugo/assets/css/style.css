@@ -6509,3 +6509,7 @@ a.to-the-top>* {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+
+.image-caption {
+	margin-top: 1rem;
+}
