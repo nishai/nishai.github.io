@@ -6513,3 +6513,8 @@ a.to-the-top>* {
 .image-caption {
 	margin-top: 1rem;
 }
+
+.quote-icon {
+	margin: 0;
+	font-size: 6rem;
+}
