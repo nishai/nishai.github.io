@@ -1,12 +1,12 @@
 ---
-title: "CV / Resumé"
+title: "CV / Resumé 📑"
 # meta description
 description: "My profile"
 # save as draft
 draft: false
 ---
 
-## About Me
+## About Me 💪🏽
 
 Hi, I’m Nishai! I am 24 and I am currently a Machine Learning Engineer at Takealot.com. I am a Masters graduate in Computer Science at Wits University, where I am a member of the RAIL research lab.
 
@@ -14,9 +14,8 @@ I find it fascinating how machine learning algorithms are able to learn to do co
 
 I consider myself focused, ambitious and creative. Besides machine learning, I love listening to music, reading, brewing coffee, travelling, meeting new people and discovering new ideas.
 
-## Education
+## Education 🎓
 
-***
 **2020 - 2021**
 
 Master of Science [MSc] Computer Science (cum laude)
