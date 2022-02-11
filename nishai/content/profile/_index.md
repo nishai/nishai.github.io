@@ -33,4 +33,30 @@ Bachelor of Science Honours [BSc Hons] Computer Science (cum laude)
 Bachelor of Science [BSc] Computer Science (cum laude)
 
 *Wits University, Johannesburg*
+
+## Experience 💼
+
+**Mar 2021 - present**
+
+Machine Learning Engineer
+
+*Takealot.com, Johannesburg (Remote)*
 ***
+**Sep 2019 - Dec 2020**
+
+Freelance Developer
+***
+**Feb 2019 - Dec 2020**
+
+Computer Science Tutor
+
+*Wits University, Johannesburg*
+***
+**July 2018**
+
+Intern Developer
+
+*Retro Rabbit, Johannesburg*
+
+
+
