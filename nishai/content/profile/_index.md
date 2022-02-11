@@ -59,4 +59,21 @@ Intern Developer
 *Retro Rabbit, Johannesburg*
 
 
+## Research 🔬
+**2022**
 
+[Investigating Transfer Learning in Graph Neural Networks](https://arxiv.org/abs/2202.00740) - Nishai Kooverjee, Steven James, Terence van Zyl
+
+*Submitted to MDPI Electronics Special Issue: Graph Machine Learning*
+***
+**2021**
+
+How Does Relational Knowledge Generalise? An Analysis of Transfer Learning for Graph Neural Networks
+
+*Master's Dissertation*
+***
+**2020**
+
+[Inter-and Intra-domain Knowledge Transfer for Related Tasks in Deep Character Recognition](https://arxiv.org/abs/2001.00448) - Nishai Kooverjee, Steven James, Terence van Zyl
+
+*IEEE SAUPEC/RobMech/PRASA 2020*
