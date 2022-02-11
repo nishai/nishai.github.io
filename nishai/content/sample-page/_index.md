@@ -3,7 +3,7 @@ title: "Sample Page"
 # meta description
 description: "This is meta description"
 # save as draft
-draft: false
+draft: true
 ---
 
 <p>This is an example page. It&#8217;s different from a blog post because it will stay in one place and will show

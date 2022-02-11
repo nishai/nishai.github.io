@@ -48,15 +48,6 @@ name = "Blog"
 URL = "blog"
 weight = 3
 
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 4
-
-[[menu.main]]
-name = "Sample Page"
-URL = "sample-page"
-weight = 5
 
 # only desktop menu
 [[menu.desktop]]
